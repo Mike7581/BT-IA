@@ -22,4 +22,4 @@ BT é um assistente de inteligência artificial feito em **Python**, capaz de re
 
 ---
 
-🔹 **Feito por **Mike** 🚀  
+🔹 **Feito por Mike** 🚀  
