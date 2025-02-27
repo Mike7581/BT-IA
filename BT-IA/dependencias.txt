@@ -1,0 +1,4 @@
+requests
+deep-translator
+spacy
+python-dateutil
